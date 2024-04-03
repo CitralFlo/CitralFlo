@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   <h1>Yoo 🤙</h1>
-  <p>Welcome to my corner of GitHub! I'm Mike, a curious explorer of the digital realm, passionate about turning ideas into reality through code and creativity. 🚀</p>
+  <p>Welcome to my corner of GitHub!<br/> I'm Mike, a curious explorer of the digital realm, passionate about turning ideas into reality through code and creativity. 🚀</p>
   <p>To boost my productivity I use coffee, matcha or Monsters <3 </p>
 
 <h2>🐈‍⬛ GitHub Stats</h2>
@@ -11,7 +11,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=CitralFlo&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-<h2>⛏️ Languages and Tools:</h2>
+<h2>⛏️ Languages and Tools</h2>
 <p> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -25,7 +25,10 @@
 <h2>🎧 Spotify</h2>
 <p>Check out my spotify and find new songs that will inspire you!</p>
 <a href="https://open.spotify.com/user/b2lb6ak7xwtbwjxuxxsanovir">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2lb6ak7xwtbwjxuxxsanovir&count=4" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2lb6ak7xwtbwjxuxxsanovir&count=4" alt="Spotify recently played" width="600"  />
 </a>
+<br/>
+<br/>
+
 
 [![](https://visitcount.itsvg.in/api?id=CitralFlo&icon=5&color=8)](https://visitcount.itsvg.in)
