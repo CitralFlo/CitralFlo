@@ -10,10 +10,6 @@
 <br/>
 <img src="https://raw.githubusercontent.com/CitralFLo/CitralFLo/output/snake.svg" alt="Snake animation" />
 
-<h2>🏆 GitHub Trophies </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=CitralFlo&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
 <h2>⛏️ Languages and Tools</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
