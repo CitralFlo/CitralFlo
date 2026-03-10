@@ -1,10 +1,9 @@
-<div align="left">
+<div align="center">
   <h1>Yoo 🤙</h1>
   <p>Welcome to my corner of GitHub!<br/> I'm Mike, a curious explorer of the digital realm, passionate about turning ideas into reality through code and creativity. 🚀</p>
   <p>To boost my productivity I use coffee, matcha or Monsters <3 </p>
 
 <h2>🐈‍⬛ GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CitralFLo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2&custom_title=Tech%20Stack" height="150" alt="languages graph" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CitralFlo&theme=dark&hide_border=false" height="150" alt="CitralFlo Stats" />
 
 <br/>
