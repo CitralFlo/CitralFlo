@@ -1,15 +1,17 @@
-<div align="center">
-  <h1>Yoo 🤙</h1>
-  <p>Welcome to my corner of GitHub!<br/> I'm Mike, a curious explorer of the digital realm, passionate about turning ideas into reality through code and creativity. 🚀</p>
+<div align="left">
+  <h1>Mornin'</h1>
+  <p>I would say GOOD MORNING but if it was good I would already have a cup of coffee.</p>
+  <p>I'm Mike, contact me via <a href="https://discord.gg/fNAuTufBqS">Discord</a> or <a href="https://www.linkedin.com/in/citralflo">LinkedIn</a></p>
   <p>To boost my productivity I use coffee, matcha or Monsters <3 </p>
-
-<h2>🐈‍⬛ GitHub Stats</h2>
+</div>
+<div align="center">
+<h2>GitHub Stats</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CitralFlo&theme=dark&hide_border=false" height="150" alt="CitralFlo Stats" />
 
 <br/>
 <img src="https://raw.githubusercontent.com/CitralFLo/CitralFLo/output/snake.svg" alt="Snake animation" />
 
-<h2>⛏️ Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -38,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<h2>🎧 Spotify</h2>
+<h2>Spotify</h2>
 <p>Check out my spotify and find new songs that will inspire you!</p>
 <a href="https://open.spotify.com/user/b2lb6ak7xwtbwjxuxxsanovir">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=b2lb6ak7xwtbwjxuxxsanovir&count=4" alt="Spotify recently played" width="600"  />
